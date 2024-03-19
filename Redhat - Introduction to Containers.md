@@ -1,0 +1,10 @@
+#Redhat #Development #Containers 
+
+In computing, a _container_ is an encapsulated process that includes the required runtime dependencies for the program to run. In a container, application-specific libraries are independent of the host operating system libraries. Libraries and functions that are not specific to the containerized application are provided by the operating system and kernel. The provided libraries and functions help to ensure that the container remains compact, and that it can quickly execute and stop as needed.
+
+A container engine creates a union file system by merging container image layers. Because container image layers are immutable, a container engine adds a writable layer for runtime file modifications. Containers are _ephemeral_ by default, which means that the container engine removes the writable layer when you remove the container.
+
+![[Pasted image 20240319125959.png]]
+Containers use Linux kernel features, such as namespaces and Control Groups (cgroups). For example, containers use cgroups for resource management, such as CPU time allocation and system memory. Namespaces in particular provide the functionality to isolate processes within containers from each other and from the host system. As such, the environment within a container is Linux-based, regardless of the host operating system. When using containers on non-Linux operating systems, these Linux-specific features are often virtualized by the container engine implementation.
+
+Containerization originated from technologies such as `chroot`, a method to partially or fully isolate an environment, and evolved to the _Open Container Initiative (OCI)_, which is a governance organization that defines standards for creating and running containers. Most container engines conform to the OCI specifications, so developers can confidently build their deployable target artifacts to run as OCI containers.
