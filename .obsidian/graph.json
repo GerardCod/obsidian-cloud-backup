@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Containers  ",
@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 65450
       }
+    },
+    {
+      "query": "tag:#GCP  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.45295929348028,
   "lineSizeMultiplier": 3.90359568073027,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.33258110210152125,
-  "close": true
+  "scale": 2.766122879914279,
+  "close": false
 }
