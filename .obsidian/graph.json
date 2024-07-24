@@ -3,20 +3,56 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Containers  ",
+      "color": {
+        "a": 1,
+        "rgb": 5404128
+      }
+    },
+    {
+      "query": "tag:#Redhat  ",
+      "color": {
+        "a": 1,
+        "rgb": 14429742
+      }
+    },
+    {
+      "query": "tag:#AWS  ",
+      "color": {
+        "a": 1,
+        "rgb": 13076480
+      }
+    },
+    {
+      "query": "tag:#DesignSprint ",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
+    },
+    {
+      "query": "tag:#CodingPatterns  ",
+      "color": {
+        "a": 1,
+        "rgb": 65450
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.45295929348028,
   "lineSizeMultiplier": 3.90359568073027,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 3.0580316469683453,
+  "scale": 0.33258110210152125,
   "close": true
 }

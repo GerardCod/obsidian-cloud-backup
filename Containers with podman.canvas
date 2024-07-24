@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e1a6bc84a5a82938","type":"text","text":"Containers with Podman","x":40,"y":-980,"width":250,"height":50},
+		{"id":"be492db2d5ad8b5d","type":"file","file":"Redhat - Introduction to Containers.md","x":-640,"y":-780,"width":500,"height":500,"color":"3"},
+		{"id":"70e7658e5f80fbdf","x":-35,"y":-780,"width":455,"height":500,"color":"5","type":"file","file":"Redhat - Images vs Instances.md"}
+	],
+	"edges":[
+		{"id":"dc60a3f35d1d56f0","fromNode":"e1a6bc84a5a82938","fromSide":"bottom","toNode":"be492db2d5ad8b5d","toSide":"top"},
+		{"id":"5338f58101d5dba9","fromNode":"e1a6bc84a5a82938","fromSide":"bottom","toNode":"70e7658e5f80fbdf","toSide":"top"}
+	]
+}

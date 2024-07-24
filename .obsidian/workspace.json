@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "efdd0c1ad6da374f",
+        "id": "ff1769829cb377c8",
         "type": "tabs",
         "children": [
           {
-            "id": "37ce450b72b16bd4",
+            "id": "d229782e7fa4ba98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redhat - Introduction to Containers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13c0d54e32040d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redhat - Images vs Instances.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Deployment",
+                "query": "tag:#Containers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 231.50390243530273,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6528b776f0123468",
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redhat - Images vs Instances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redhat - Images vs Instances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Redhat - Images vs Instances.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,44 +158,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13c0d54e32040d11",
+  "active": "d229782e7fa4ba98",
   "lastOpenFiles": [
-    "Redhat - Introduction to Containers.md",
-    "Redhat - Images vs Instances.md",
-    "Pasted image 20240319125959.png",
-    "Amazon S3 Lifecycle Rules.md",
-    "Amazon S3 - Lifecycle Rules Scenarios.md",
-    "SigV4 Request Examples.md",
-    "Captura de pantalla 2024-03-13 a la(s) 8.42.32 p.m..png",
-    "Signing AWS API Requests.md",
-    "Captura de pantalla 2024-03-13 a la(s) 8.41.11 p.m..png",
-    "AWS SDK Default Provider Chain.md",
-    "AWS Credentials Scenario.md",
-    "AWS Credentials Best Practices.md",
-    "AWS CLI Credentials Provider Chain.md",
-    "Exponential Backoff.md",
-    "AWS Limits (Quotas).md",
-    "AWS SDK Overview.md",
-    "Route 53 Alias Records Targets.md",
-    "Route 53 Alias Records.md",
-    "Captura de pantalla 2024-03-13 a la(s) 4.44.39 p.m..png",
-    "CNAME Records vs Alias Records.md",
-    "Route 53 - Records TTL (Time to Live).md",
-    "Captura de pantalla 2024-03-13 a la(s) 4.41.32 p.m..png",
-    "Route 53 - Public vs Private Hosted Zones.md",
-    "Captura de pantalla 2024-03-13 a la(s) 4.38.37 p.m..png",
-    "Route 53 - Hosted Zones.md",
-    "Route53 - Record Types.md",
-    "Route 53 - Records.md",
-    "How DNS works.md",
-    "Captura de pantalla 2024-03-13 a la(s) 4.30.02 p.m..png",
-    "DNS Terminologies.md",
-    "Captura de pantalla 2024-03-13 a la(s) 4.22.28 p.m..png",
-    "Cache Evictions and Time to Live (TTL).md",
-    "Write Through - Add or Update cache when database is updated.md",
-    "Captura de pantalla 2024-03-13 a la(s) 12.48.27 p.m..png",
-    "Captura de pantalla 2024-03-13 a la(s) 12.47.38 p.m..png",
-    "Lazy Loading - Cache-Aside - Lazy Population.md",
+    "AWS Blackbelt Containers - Networking.md",
+    "AWS Blackbelt Containers - Cost Optimization.md",
+    "EKS Cost Optimization.md",
+    "Escalamiento.md",
+    "AWS Blackbelt Containers - Best Practices.md",
+    "AWS Blackbelt Containers - EKS Security 101.md",
+    "AWS Blackbelt Containers - Containers Observability.md",
+    "AWS Blackbelt containers - Storage Best Practices.md",
+    "AWS Containers Roadmap.md",
+    "Platzi - Golang - Rest API.md",
+    "Pasted image 20240614132554.png",
+    "Pasted image 20240614132228.png",
+    "Pasted image 20240614132117.png",
+    "Pasted image 20240614131633.png",
+    "Pasted image 20240614131626.png",
+    "Pasted image 20240614130959.png",
+    "Pasted image 20240614130825.png",
+    "Pasted image 20240614130629.png",
+    "Pasted image 20240614130551.png",
+    "Pasted image 20240614130204.png",
+    "AWS Blackbelt Containers - Container Ochestration.md",
+    "AWS Blackbelt Containers - Containers Landscape.md",
+    "Product management - Productizing process = Value management.md",
+    "Aws Blackbelt - ECS Service connect.md",
+    "AWS Blackbelt Containers - VPC Lattice.md",
+    "AWS Blackbelt Containers - Microservice deployments in ECS.md",
+    "GitOps en EKS.md",
+    "AWS Blackbelt Containers - DevOps.md",
+    "Product management - Roadmapping.md",
+    "Product Management - Cambio y estandarización.md",
+    "Product Management - Productos vs Servicios.md",
+    "Product Management - ¿Qué es un producto?.md",
+    "Product Management - Product Manager vs Product Owner.md",
+    "Product Management - ¿Qué es?.md",
+    "Design - Responsive Design.md",
+    "Design - Conceptos.md",
+    "Containers with podman.canvas",
     "Excalidraw"
   ]
 }
