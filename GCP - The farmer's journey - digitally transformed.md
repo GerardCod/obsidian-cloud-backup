@@ -1,0 +1,15 @@
+#GCP #DigitalTransformation 
+
+After harvesting their wheat, a farmer needs to drop it off at a grain elevator to monetize their inventory. The price of wheat varies by the second as commodity prices fluctuate based on domestic and international factors. Unfortunately, the market price of wheat is low relative to historic prices but the farmer doesn’t have much of a choice; the almanac they read predicted that prices would be stable this year, so they decided to sell it at the going market rate.
+
+The farmer drives their truck to the grain elevator and has to wait a few hours before their turn. Once they arrive at the scale, where the truck’s weight is measured before and after the grain is dropped off, they receive a paper slip confirming the amount of grain dropped off, along with the price. The farmer then proceeds to wait 3 weeks to receive a check in the mail.
+
+Assuming the check was for the correct amount, all is well in the world. What happens if we introduce some risk or human error into the situation? What if the check that was mailed to the farmer is lost or stolen in transit? What if the amount of the check is incorrect? What if the farmer needs to prove that the amount is incorrect but they can’t find the scale receipt from when the grain was dropped off? What if the farmer needed the money within a few days to pay for a loan or mortgage?
+
+The traditional, paper-based processes have multiple points of failure, many of which can end up having a significant negative impact on people’s lives. Let’s explore a scenario where the farmer is working with digital tools.
+
+While finishing off their harvest, a farmer opens up an application on their phone to look at wheat prices and prepare to drop off the grain. They receive a notification that wheat prices are likely to jump 10% to 20% next week as an international incident impacts prices. They schedule an appointment to drop off the grain at the elevator at a specific time next week and sell their wheat at a premium to speculators betting on the increase at a 5% premium. The transaction is automated so that it can be processed as soon as the buyer signs off on the sale and the grain is dropped off, with the funds hitting the farmer’s account shortly after.
+
+Within a digital reimagining of grain transactions, the farmer not only saves time dropping off the grain by scheduling an appointment ahead of time but also is better informed on world events and can make financial decisions based on these events in real time to ensure they get the most value out of their work. They can fully benefit from digital financial services, having real-time visibility and projections for commodity prices, which empowers them to make a more informed decision on when to sell and whom to sell to.
+
+Now that we have a better understanding of data and how it’s related to digital transformations, let’s dig into the organizational changes driven by digital systems through the rise of data-driven culture.

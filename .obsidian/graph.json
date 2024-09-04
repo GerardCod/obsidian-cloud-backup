@@ -5,43 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "tag:#Containers  ",
-      "color": {
-        "a": 1,
-        "rgb": 5404128
-      }
-    },
-    {
-      "query": "tag:#Redhat  ",
-      "color": {
-        "a": 1,
-        "rgb": 14429742
-      }
-    },
-    {
-      "query": "tag:#AWS  ",
-      "color": {
-        "a": 1,
-        "rgb": 13076480
-      }
-    },
-    {
-      "query": "tag:#DesignSprint ",
-      "color": {
-        "a": 1,
-        "rgb": 9175295
-      }
-    },
-    {
-      "query": "tag:#CodingPatterns  ",
-      "color": {
-        "a": 1,
-        "rgb": 65450
-      }
-    },
     {
       "query": "tag:#GCP  ",
       "color": {
@@ -50,7 +15,7 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.45295929348028,
@@ -60,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.766122879914279,
+  "scale": 2.070709249745298,
   "close": false
 }

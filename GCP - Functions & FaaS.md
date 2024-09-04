@@ -1,0 +1,9 @@
+#GCP #Functions 
+
+Functions, similar to containers, are a new way of developing, managing, and serving code. Functions are also small bits of code, similar to microservices, that usually serve a specific and simple purpose. They are very useful in circumstances such as event-based computing, where an event triggers a snippet of code to run and perform a specific task. FaaS solutions abstract away more of the infrastructure and management thereof than PaaS offerings, but you still are responsible for the code itself.
+
+This approach to developing code makes it very easy for developers to quickly write, update, and deploy code. This approach is great when an organization has a small development team or would like to focus resources on development. They can prioritize the launch of code without having to build specific competence around managing Kubernetes and clusters like you would with a CaaS service.
+
+The tradeoff for FaaS offering, similar to the themes we learned about earlier in this chapter, is that you will have little to no control over the underlying infrastructure. The scaling of the infrastructure that runs your function is completely dependent on the FaaS provider.
+
+When designing systems for the cloud, many architectures make sense based on the needs of the client and the cost of the infrastructure. Some components of an application may be hosted via PaaS or FaaS, while some applications may be monolithic and hosted in IaaS environments. At the end of the day, organizations and their engineering teams must weigh the pros and cons of the different hosting models and make the appropriate decision regarding how to approach development and hosting for their applications.

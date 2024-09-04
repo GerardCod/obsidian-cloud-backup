@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "3b157ca3286aeb3f",
+        "id": "3ee16b80f4a54529",
         "type": "tabs",
         "children": [
           {
-            "id": "b48dce38d16c00cc",
+            "id": "25a346112b994abf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GCP - The importance of data-driven culture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0b2c87cdbfde0ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GCP - Making better decisions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bee2abcefaf864f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GCP - Improving productivity and efficiency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "273953316575e6bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GCP - Identifying new opportunities.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -44,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Containers",
+                "query": "tag:#Networking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.50390243530273
   },
   "right": {
     "id": "6528b776f0123468",
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GCP - Identifying new opportunities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GCP - Identifying new opportunities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GCP - Identifying new opportunities.md"
+              }
             }
           },
           {
@@ -142,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,24 +203,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e3d063c1ee032f9",
+  "active": "273953316575e6bb",
   "lastOpenFiles": [
-    "GCP - What is the cloud?.md",
-    "GCP - Regions and Zones.md",
-    "GCP - Private Cloud.md",
-    "GCP - Public Cloud.md",
-    "GCP - Multicloud.md",
-    "GCP - Hybrid Cloud.md",
-    "AWS Blackbelt Containers - Networking.md",
-    "AWS Blackbelt Containers - Cost Optimization.md",
-    "EKS Cost Optimization.md",
-    "Escalamiento.md",
-    "AWS Blackbelt Containers - Best Practices.md",
-    "AWS Blackbelt Containers - EKS Security 101.md",
-    "AWS Blackbelt Containers - Containers Observability.md",
-    "AWS Blackbelt containers - Storage Best Practices.md",
-    "AWS Containers Roadmap.md",
-    "Platzi - Golang - Rest API.md",
+    "GCP - Improving productivity and efficiency.md",
+    "GCP - Identifying new opportunities.md",
+    "GCP - Making better decisions.md",
+    "GCP - The importance of data-driven culture.md",
+    "GCP - The farmer's journey - digitally transformed.md",
+    "GCP - The role of data in digital transformation.md",
+    "GCP - Shared Responsibility Model.md",
+    "GCP - Functions & FaaS.md",
+    "GCP - Containers & CaaS.md",
+    "GCP - Variables for SaaS.md",
+    "GCP - Variables for PaaS.md",
+    "GCP - Variables for IaaS.md",
+    "GCP - SaaS.md",
+    "GCP - PaaS.md",
+    "GCP - IaaS.md",
+    "GCP - GCP Compute Engine.md",
+    "GCP - App Engine.md",
+    "GCP - Vertex AI.md",
+    "GCP - SaaS examples.md",
+    "GCP - Networking - Data centers.md",
+    "GCP - Networking - Internet Service Provider.md",
+    "GCP - Networking - DNS Server.md",
+    "GCP - Networking - IP Address.md",
+    "GCP - Private, Public or Hybrid?.md",
+    "GCP - The impact of Cloud Adoption on finance teams.md",
+    "GCP - Operational Expenditure.md",
     "Pasted image 20240614132554.png",
     "Pasted image 20240614132228.png",
     "Pasted image 20240614132117.png",
@@ -185,16 +241,6 @@
     "Pasted image 20240614130629.png",
     "Pasted image 20240614130551.png",
     "Pasted image 20240614130204.png",
-    "AWS Blackbelt Containers - Container Ochestration.md",
-    "AWS Blackbelt Containers - Containers Landscape.md",
-    "Product management - Productizing process = Value management.md",
-    "Aws Blackbelt - ECS Service connect.md",
-    "AWS Blackbelt Containers - VPC Lattice.md",
-    "AWS Blackbelt Containers - Microservice deployments in ECS.md",
-    "GitOps en EKS.md",
-    "AWS Blackbelt Containers - DevOps.md",
-    "Product management - Roadmapping.md",
-    "Product Management - Cambio y estandarización.md",
     "Containers with podman.canvas",
     "Excalidraw"
   ]

@@ -1,0 +1,3 @@
+#GCP #DigitalTransformation 
+
+Working with cross-functional teams that are distributed across the globe can be an issue whenever you don’t have the right tools, systems, and processes in place to facilitate the collaboration without the appropriate security and compliance controls. Through digital transformation, you can make data more accessible to people who need it, when they need it, while still ensuring compliance with existing requirements.

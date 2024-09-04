@@ -1,0 +1,9 @@
+#GCP #DigitalTransformation 
+
+There are a large variety of factors that can impact the decision-making process and the consequences may impact people all over the world. By implementing a data-driven approach to making decisions, leadership teams can ensure that their decisions are grounded in reality and reflect the current state of the business and their industry.
+
+For example, if you need to decide whether your business should focus on expansion into Europe, Africa, or Asia, what considerations would you make? You may think of the expansion based on the total addressable market, the nature of the competitive landscape, the cost of establishing operations, and the risk related to legal or national security issues. Much of this analysis may be done based on external information that is available via the internet from sources such as news outlets, academic journals, or research published by consultants.
+
+Assuming you did not have a data-driven culture inside your organization, what might influence that decision? Perhaps which part of the world executives prefer to travel to or where they have existing relationships. Perhaps it would be which market is perceived to be the most deregulated or where governments may be the most malleable.
+
+Within a data-driven organization, however, leadership should prioritize what data is available to the organization and use that to make decisions. Where has their organization seen the most traction, what market has the highest growth rate, and what is the customer acquisition cost in these different markets relative to how much revenue they can drive? Rather than make decisions based on bias, emotion, or other human factors, executives should be making decisions based on information – which ideally should be recent, validated, and relevant.
