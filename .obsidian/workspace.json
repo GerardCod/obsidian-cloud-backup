@@ -4,59 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee16b80f4a54529",
+        "id": "33b8048074fb7cc4",
         "type": "tabs",
         "children": [
           {
-            "id": "25a346112b994abf",
+            "id": "eb6eb41e5f1d74c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCP - The importance of data-driven culture.md",
+                "file": "GCP - Gaining a competitive advantage.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d0b2c87cdbfde0ab",
+            "id": "2c427ce2581ef63e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCP - Making better decisions.md",
+                "file": "GCP - The impact of the cloud on data.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bee2abcefaf864f4",
+            "id": "7db882f2bdb4e1ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCP - Improving productivity and efficiency.md",
+                "file": "GCP - Improved data security.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "273953316575e6bb",
+            "id": "c1cdfd448a5ceee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCP - Identifying new opportunities.md",
+                "file": "GCP - Reduced costs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38dc8a11ddc4a8b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GCP - Improved collaboration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cceaad482e718767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GCP - Increased innovation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GCP - Identifying new opportunities.md",
+                "file": "GCP - Increased innovation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GCP - Identifying new opportunities.md",
+                "file": "GCP - Increased innovation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GCP - Identifying new opportunities.md"
+                "file": "GCP - Increased innovation.md"
               }
             }
           },
@@ -203,10 +227,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "273953316575e6bb",
+  "active": "cceaad482e718767",
   "lastOpenFiles": [
-    "GCP - Improving productivity and efficiency.md",
+    "GCP - Improved collaboration.md",
+    "GCP - Increased innovation.md",
+    "GCP - Reduced costs.md",
+    "GCP - Improved data security.md",
+    "GCP - The impact of the cloud on data.md",
+    "GCP - Gaining a competitive advantage.md",
     "GCP - Identifying new opportunities.md",
+    "GCP - Improving productivity and efficiency.md",
     "GCP - Making better decisions.md",
     "GCP - The importance of data-driven culture.md",
     "GCP - The farmer's journey - digitally transformed.md",
@@ -225,12 +255,6 @@
     "GCP - Vertex AI.md",
     "GCP - SaaS examples.md",
     "GCP - Networking - Data centers.md",
-    "GCP - Networking - Internet Service Provider.md",
-    "GCP - Networking - DNS Server.md",
-    "GCP - Networking - IP Address.md",
-    "GCP - Private, Public or Hybrid?.md",
-    "GCP - The impact of Cloud Adoption on finance teams.md",
-    "GCP - Operational Expenditure.md",
     "Pasted image 20240614132554.png",
     "Pasted image 20240614132228.png",
     "Pasted image 20240614132117.png",

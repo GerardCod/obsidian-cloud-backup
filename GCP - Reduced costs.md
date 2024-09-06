@@ -1,0 +1,7 @@
+#GCP #Data 
+
+The shift to cloud systems for managing and manipulating data also has cost implications. When leveraging a public cloud provider such as Google Cloud, clients benefit from the fact that Google can procure IT equipment at a massive scale. This usually translates into better rates for equipment and software from manufacturers who sell these products in bulk. Google is then able to pass on the cost savings from procuring the hardware and software in bulk to its clients through the platform.
+
+For example, if you were to procure one server from a server manufacturer, it may cost $10,000. Meanwhile, if you were to procure 1,000 servers from that manufacturer, they may charge you $5,000 per server. Effectively, the hardware is procured at 50% of the list cost in bulk, at which point you can make that hardware available to your clients as a service.
+
+In addition, given the flexibility of cloud systems, clients are empowered to pay for infrastructure that they use based on how much data they store and how much data is processed. By contrast, assuming you are building out your own data center, you would be at the mercy of the hardware and software costs once it is procured. If you buy a petabyte of storage, you have a petabyte of storage, whether or not the capacity is used.

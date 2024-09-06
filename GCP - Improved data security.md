@@ -1,0 +1,5 @@
+#GCP #Data 
+
+Data systems that are built on top of public cloud providers also benefit from the maturity and security of the underlying infrastructure. As we explored in [_Chapter 3_](https://learning.oreilly.com/library/view/google-cloud-digital/9781805129615/B19898_03.xhtml#_idTextAnchor051) with the **shared responsibility model**, organizations can offload physical infrastructure security to cloud providers. Their internal teams can focus on building and securing the code and application itself, allowing them to specialize in launching secure and performant code.
+
+Many organizations struggle to implement and maintain a robust security practice from a technology perspective. By leveraging cloud systems, they can ensure that their data has a baseline of meaningful physical security and lighten the load on their technology teams. In Google Cloud, for example, all data is encrypted at rest and in transit by default. Normally, this would have to be manually implemented and configured by a technology team.

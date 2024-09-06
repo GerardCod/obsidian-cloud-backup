@@ -1,0 +1,7 @@
+#GCP #Data 
+
+Cloud systems add an additional layer of value to digitized information. Once data is in the cloud, it becomes accessible to anyone with the appropriate permission and access to the internet. Workers are no longer tied to physical machines and have to save their work to the local drive of their work computer. Files are stored in cloud-based data repositories and can be accessed from any device. This has implications for teams who may need to work together across geographies and time zones.
+
+Similar to our presentation example from earlier, imagine having to build a presentation for the leadership team that requires collaboration between finance, legal, marketing, and sales. With cloud-based systems such as Google Slides and a **customer relationship management** (**CRM**) system, sales can create a slide deck, build out the different sections, comment specific people into specific slides, and ask them to populate or validate data. They can even pull reports from the CRM system on the historical performance of their territory and use it to inform their strategy.
+
+As work culture continues to evolve from _working at the office_ to _working from anywhere_, employees want to be empowered to work from multiple devices and locations. Through cloud productivity systems, they can work from their laptop or their phone, from the comfort of their home, office, or even a ship sailing across the Atlantic.

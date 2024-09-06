@@ -1,0 +1,5 @@
+#GCP #Data 
+
+The adoption of cloud systems not only increases the ability to innovate but also the pace of innovation. Much of the value of landing data in the cloud is making it accessible across the company to empower employees to drive new ways of working and by extension delivering services to customers.
+
+Folks who adopt cloud-native systems and pursue data-centric innovation will be marrying datasets from across their business to surface new insights. Perhaps this means a shift from demographic targeting to behavioral targeting, where you target your marketing campaigns not on zip codes or age but on online behavior. At a gaming company, this may mean cross-referencing purchasing behavior with user surveys to understand what promotions your customers want to see and how they like to interact with those promotions.
